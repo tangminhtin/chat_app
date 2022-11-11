@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879613833460",
+    "firebase_url": "https://shopapp-caca7-default-rtdb.firebaseio.com",
+    "project_id": "shopapp-caca7",
+    "storage_bucket": "shopapp-caca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879613833460:android:ec9f7f33aaa9eb5266eea1",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879613833460-2iifo3jrir15ivppa35idbohthtnqh95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA73WyFYnP9J_MgfFoscTnUZtJCFQIzyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879613833460-2iifo3jrir15ivppa35idbohthtnqh95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
